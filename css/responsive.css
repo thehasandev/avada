@@ -1,0 +1,1129 @@
+@media (min-width: 320px) and (max-width: 575.99px) {
+  /* ======================== Nav Start =============================*/
+  nav .navbar-brand img {
+    width: 50%;
+  }
+
+  .navbar-toggler {
+    padding: 0;
+  }
+  nav button i {
+    color: #fff;
+  }
+  .navbar-collapse {
+    background: #0f4152;
+  }
+  .navbar-collapse ul li {
+    padding: 5px;
+  }
+
+  nav .getbtn {
+    padding: 12px 26px;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* ======================== Nav End =============================*/
+
+  /* ======================== Banner Start=========================*/
+  .banner {
+    padding-top: 115px;
+    padding-bottom: 120px;
+  }
+  .banner h1 {
+    font-size: 30px;
+    width: auto;
+  }
+  .banner .getbtn {
+    padding: 13px 17px;
+    font-size: 14px;
+    margin-right: 6px;
+  }
+  /* ======================== Banner End =========================*/
+
+  /* ======================== Sports Start =========================*/
+  .sports h3 {
+    font-size: 20px;
+  }
+  .sports h2 {
+    font-size: 30px;
+    width: auto;
+  }
+  .sports p {
+    font-size: 14px;
+    width: auto;
+  }
+  .sports ul {
+    font-size: 14px;
+  }
+  .sports ul li i {
+    margin-right: 13px;
+  }
+
+  .sports ul li {
+    margin-bottom: 18px;
+  }
+  .sports .getbtn {
+    padding: 12px 19px;
+    margin-bottom: 20px;
+  }
+
+  .sports img {
+    width: 45%;
+  }
+  /* ======================== Sports End =========================*/
+
+  /* ======================== Counter Start =========================*/
+  .counter {
+    padding-top: 0;
+    padding-bottom: 50px;
+  }
+
+  .counter .item {
+    padding: 40px 60px 52px 60px;
+    margin-bottom: 22px;
+  }
+  .counter .item h2 {
+    font-size: 40px;
+  }
+  .counter .item p {
+    font-size: 15px;
+  }
+
+  /* ======================== Counter End ===========================*/
+
+  /* ======================== Skill Start ===========================*/
+  .skill {
+    padding: 50px 0px;
+  }
+  .skill .item {
+    margin-top: 25px;
+  }
+  .skill h3 {
+    font-size: 20px;
+  }
+  .skill h2 {
+    font-size: 24px;
+  }
+  .skill .tittle {
+    font-size: 14px;
+    margin-top: 30px;
+    width: auto;
+  }
+  .skill .item h3 {
+    margin-bottom: 13px;
+  }
+  .skill .item p {
+    font-size: 15px;
+  }
+  .skill h5 {
+    font-size: 37px;
+    margin-top: 20px;
+    background: #0f4152;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club {
+    padding: 50px 0px;
+  }
+  .club-content h2 {
+    font-size: 15px;
+    width: auto;
+    padding-top: 21px;
+    padding-bottom: 15px;
+  }
+  .club-content p {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    width: auto;
+  }
+
+  .club-content .getbtn {
+    padding: 15px 31px;
+    font-size: 16px;
+    margin-top: 9px;
+    display: inline-block;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club-content {
+    padding-bottom: 48px;
+  }
+  .club .item {
+    top: 0;
+    margin-bottom: 20px;
+  }
+
+  .club .item .img-overly .overly-text h2 {
+    font-size: 30px;
+  }
+  .club .item .img-overly .overly-text p {
+    font-size: 20px;
+  }
+  .club .item .img-overly .overly-text p::after {
+    width: 235px;
+  }
+  .club .item .img-overly .overly-text h3 {
+    font-size: 14px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .choose .item {
+    margin-top: 42px;
+  }
+  .choose h3 {
+    font-size: 24px;
+  }
+  .choose h2 {
+    font-size: 36px;
+  }
+
+  .choose .item h4 {
+    font-size: 18px;
+    margin-top: 12px;
+  }
+  .choose .item p {
+    font-size: 14px;
+    width: auto;
+    padding-bottom: 22px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== news Start ===========================*/
+  .news {
+    padding: 50px 0px;
+  }
+
+  .news h3 {
+    font-size: 22px;
+  }
+  .news h2 {
+    font-size: 28px;
+  }
+  .news .tittle {
+    font-size: 14px;
+    width: auto;
+    margin-top: 30px;
+  }
+  .news .one h5 {
+    font-size: 16px;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 12px;
+  }
+
+  .news .one a {
+    font-size: 18px;
+    padding-bottom: 15px;
+  }
+  .news .one {
+    margin-bottom: 20px;
+  }
+
+  /* ======================== news End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .sponsor {
+    padding: 30px 0px;
+  }
+  .sponsor img {
+    margin-bottom: 30px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== footer Start ===========================*/
+  .footer .img img {
+    display: none;
+  }
+  .footer a {
+    padding: 14px 38px;
+  }
+  .footer a::after {
+    bottom: -134px;
+    left: 0;
+  }
+  .footer p {
+    width: auto;
+    margin-top: 20px;
+  }
+
+  .footer h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .footer h2::after {
+    bottom: -9px;
+  }
+  .footer .item-two ul {
+    font-size: 12px;
+  }
+
+  .footer .footer-end {
+    font-size: 14px;
+    width: auto;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768.99px) {
+  /* ======================== Nav Start =============================*/
+  nav .navbar-brand img {
+    width: 60%;
+  }
+
+  .navbar-toggler {
+    padding: 0;
+  }
+  nav button i {
+    color: #fff;
+  }
+  .navbar-collapse {
+    background: #0f4152;
+  }
+  .navbar-collapse ul li {
+    padding: 5px;
+  }
+
+  nav .getbtn {
+    padding: 12px 26px;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* ======================== Nav End =============================*/
+
+  /* ======================== Banner Start=========================*/
+  .banner {
+    padding-top: 115px;
+    padding-bottom: 120px;
+  }
+  .banner h1 {
+    font-size: 30px;
+    width: auto;
+  }
+  .banner .getbtn {
+    padding: 13px 17px;
+    font-size: 14px;
+    margin-right: 6px;
+  }
+  /* ======================== Banner End =========================*/
+
+  /* ======================== Sports Start =========================*/
+  .sports h3 {
+    font-size: 20px;
+  }
+  .sports h2 {
+    font-size: 30px;
+    width: auto;
+  }
+  .sports p {
+    font-size: 14px;
+    width: auto;
+  }
+  .sports ul {
+    font-size: 14px;
+  }
+  .sports ul li i {
+    margin-right: 13px;
+  }
+
+  .sports ul li {
+    margin-bottom: 18px;
+  }
+  .sports .getbtn {
+    padding: 12px 19px;
+    margin-bottom: 20px;
+  }
+
+  .sports img {
+    width: 45%;
+  }
+  .sports h2::after {
+    bottom: -23px;
+    left: 50%;
+
+    transform: translateX(-50%);
+  }
+  /* ======================== Sports End =========================*/
+
+  /* ======================== Counter Start =========================*/
+  .counter {
+    padding-top: 0;
+    padding-bottom: 50px;
+  }
+
+  .counter .item {
+    padding: 40px 60px 52px 60px;
+    margin-bottom: 22px;
+  }
+  .counter .item h2 {
+    font-size: 40px;
+  }
+  .counter .item p {
+    font-size: 15px;
+  }
+
+  /* ======================== Counter End ===========================*/
+
+  /* ======================== Skill Start ===========================*/
+  .skill {
+    padding: 50px 0px;
+  }
+  .skill .item {
+    margin-top: 25px;
+  }
+  .skill h3 {
+    font-size: 20px;
+  }
+  .skill h2 {
+    font-size: 24px;
+  }
+  .skill .tittle {
+    font-size: 14px;
+    margin-top: 30px;
+    width: auto;
+  }
+  .skill .item h3 {
+    margin-bottom: 13px;
+  }
+  .skill .item p {
+    font-size: 15px;
+  }
+  .skill h5 {
+    font-size: 37px;
+    margin-top: 20px;
+    background: #0f4152;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club {
+    padding: 50px 0px;
+  }
+  .club-content h2 {
+    font-size: 15px;
+    width: auto;
+    padding-top: 21px;
+    padding-bottom: 15px;
+  }
+  .club-content p {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    width: auto;
+  }
+
+  .club-content .getbtn {
+    padding: 15px 31px;
+    font-size: 16px;
+    margin-top: 9px;
+    display: inline-block;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club-content {
+    padding-bottom: 48px;
+  }
+  .club .item {
+    top: 0;
+  }
+  .club .item .img-overly .overly-text {
+    padding-left: 5px;
+  }
+  .club .item .img-overly .overly-text h2 {
+    font-size: 20px;
+  }
+  .club .item .img-overly .overly-text p {
+    font-size: 14px;
+  }
+  .club .item .img-overly .overly-text p::after {
+    width: 100px;
+    height: 1px;
+  }
+  .club .item .img-overly .overly-text h3 {
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  .club .item .img-overly .overly-text i {
+    display: none;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .choose .item {
+    margin-top: 42px;
+  }
+  .choose h3 {
+    font-size: 24px;
+  }
+  .choose h2 {
+    font-size: 36px;
+  }
+
+  .choose .item h4 {
+    font-size: 18px;
+    margin-top: 12px;
+  }
+  .choose .item p {
+    font-size: 14px;
+    width: auto;
+    padding-bottom: 22px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== news Start ===========================*/
+  .news .one .text {
+    padding: 0;
+  }
+  .news {
+    padding: 50px 0px;
+  }
+
+  .news h3 {
+    font-size: 14px;
+  }
+  .news h2 {
+    font-size: 28px;
+  }
+  .news .tittle {
+    font-size: 14px;
+    width: auto;
+    margin-top: 30px;
+  }
+  .news .one h5 {
+    font-size: 12px;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 16px;
+  }
+
+  .news .one a {
+    font-size: 18px;
+    padding-bottom: 15px;
+  }
+  .news .one {
+    margin-bottom: 20px;
+  }
+
+  /* ======================== news End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .sponsor {
+    padding: 30px 0px;
+  }
+  .sponsor img {
+    margin-bottom: 30px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== footer Start ===========================*/
+  .footer .img img {
+    display: none;
+  }
+  .footer a {
+    padding: 14px 38px;
+  }
+  .footer a::after {
+    bottom: -134px;
+    left: 0;
+  }
+  .footer p {
+    width: auto;
+    margin-top: 20px;
+  }
+
+  .footer h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .footer h2::after {
+    bottom: -9px;
+  }
+  .footer .item-two ul {
+    font-size: 12px;
+  }
+
+  .footer .footer-end {
+    font-size: 14px;
+    width: auto;
+  }
+
+  /* ======================== footer End =============================*/
+}
+
+@media (min-width: 769px) and (max-width: 991.99px) {
+  /* ======================== Nav Start =============================*/
+
+  /* ======================== Nav End =============================*/
+
+  /* ======================== Banner Start=========================*/
+  .banner {
+    padding-top: 129px;
+    padding-bottom: 133px;
+  }
+  .banner h1 {
+    font-size: 30px;
+    width: auto;
+  }
+  .banner .getbtn {
+    padding: 13px 17px;
+    font-size: 14px;
+    margin-right: 6px;
+  }
+  /* ======================== Banner End =========================*/
+
+  /* ======================== Sports Start =========================*/
+  .sports h3 {
+    font-size: 20px;
+  }
+  .sports h2 {
+    font-size: 30px;
+    width: auto;
+  }
+  .sports p {
+    font-size: 14px;
+    width: auto;
+  }
+  .sports ul {
+    font-size: 14px;
+  }
+  .sports ul li i {
+    margin-right: 13px;
+  }
+
+  .sports ul li {
+    margin-bottom: 18px;
+  }
+  .sports .getbtn {
+    padding: 12px 19px;
+    margin-bottom: 20px;
+  }
+
+  .sports img {
+    width: 46%;
+  }
+  .sports h2::after {
+    bottom: -23px;
+    left: 50%;
+
+    transform: translateX(-50%);
+  }
+  /* ======================== Sports End =========================*/
+
+  /* ======================== Counter Start =========================*/
+  .counter {
+    padding-top: 0;
+    padding-bottom: 50px;
+  }
+
+  .counter .item {
+    padding: 40px 60px 52px 60px;
+    margin-bottom: 22px;
+  }
+  .counter .item h2 {
+    font-size: 40px;
+  }
+  .counter .item p {
+    font-size: 15px;
+  }
+
+  /* ======================== Counter End ===========================*/
+
+  /* ======================== Skill Start ===========================*/
+  .skill {
+    padding: 50px 0px;
+  }
+  .skill .item {
+    margin-top: 25px;
+  }
+  .skill h3 {
+    font-size: 20px;
+  }
+  .skill h2 {
+    font-size: 24px;
+  }
+  .skill .tittle {
+    font-size: 14px;
+    margin-top: 30px;
+    width: auto;
+  }
+  .skill .item h3 {
+    margin-bottom: 13px;
+  }
+  .skill .item p {
+    font-size: 15px;
+  }
+  .skill h5 {
+    font-size: 37px;
+    margin-top: 20px;
+    background: #0f4152;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club {
+    padding: 50px 0px;
+  }
+  .club-content h2 {
+    font-size: 15px;
+    width: auto;
+    padding-top: 21px;
+    padding-bottom: 15px;
+  }
+  .club-content p {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    width: auto;
+  }
+
+  .club-content .getbtn {
+    padding: 15px 31px;
+    font-size: 16px;
+    margin-top: 9px;
+    display: inline-block;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club-content {
+    padding-bottom: 48px;
+  }
+  .club-content {
+    padding-bottom: 10px;
+  }
+  .club .item {
+    top: 42%;
+  }
+  .club .item .img-overly .overly-text {
+    padding-left: 5px;
+  }
+  .club .item .img-overly .overly-text h2 {
+    font-size: 20px;
+  }
+  .club .item .img-overly .overly-text p {
+    font-size: 14px;
+  }
+  .club .item .img-overly .overly-text p::after {
+    width: 100px;
+    height: 1px;
+  }
+  .club .item .img-overly .overly-text h3 {
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  .club .item .img-overly .overly-text i {
+    display: none;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .choose .item {
+    margin-top: 42px;
+  }
+  .choose h3 {
+    font-size: 24px;
+  }
+  .choose h2 {
+    font-size: 36px;
+  }
+
+  .choose .item h4 {
+    font-size: 18px;
+    margin-top: 12px;
+  }
+  .choose .item p {
+    font-size: 14px;
+    width: auto;
+    padding-bottom: 22px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== news Start ===========================*/
+  .news .one .text {
+    padding: 0;
+  }
+  .news {
+    padding: 50px 0px;
+  }
+
+  .news h3 {
+    font-size: 14px;
+  }
+  .news h2 {
+    font-size: 28px;
+  }
+  .news .tittle {
+    font-size: 14px;
+    width: auto;
+    margin-top: 30px;
+  }
+  .news .one h5 {
+    font-size: 12px;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 16px;
+  }
+
+  .news .one a {
+    font-size: 18px;
+    padding-bottom: 15px;
+  }
+  .news .one {
+    margin-bottom: 20px;
+  }
+
+  /* ======================== news End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .sponsor {
+    padding: 30px 0px;
+  }
+  .sponsor img {
+    margin-bottom: 30px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== footer Start ===========================*/
+
+  .footer a {
+    padding: 14px 38px;
+  }
+  .footer a::after {
+    bottom: -134px;
+    left: 0;
+  }
+  .footer p {
+    width: auto;
+    margin-top: 20px;
+  }
+
+  .footer h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .footer h2::after {
+    bottom: -9px;
+  }
+  .footer .item-two ul {
+    font-size: 12px;
+  }
+
+  .footer .footer-end {
+    font-size: 14px;
+    width: auto;
+  }
+  .footer .img img {
+    width: 163%;
+  }
+
+  /* ======================== footer End =============================*/
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  nav .navbar-brand img {
+    width: 60%;
+  }
+  .navbar-nav {
+    column-gap: 12px;
+  }
+
+  .navbar-toggler {
+    padding: 0;
+  }
+  nav button i {
+    color: #fff;
+  }
+
+  .navbar-collapse ul li {
+    padding: 5px;
+  }
+
+  nav .getbtn {
+    padding: 12px 26px;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  /* ======================== Banner Start=========================*/
+  .banner {
+    padding-top: 129px;
+    padding-bottom: 133px;
+  }
+  .banner h1 {
+    font-size: 30px;
+    width: auto;
+  }
+  .banner .getbtn {
+    padding: 13px 17px;
+    font-size: 14px;
+    margin-right: 6px;
+  }
+  /* ======================== Banner End =========================*/
+
+  /* ======================== Sports Start =========================*/
+  .sports h3 {
+    font-size: 20px;
+  }
+  .sports h2 {
+    font-size: 30px;
+    width: auto;
+  }
+  .sports p {
+    font-size: 14px;
+    width: auto;
+  }
+  .sports ul {
+    font-size: 14px;
+  }
+  .sports ul li i {
+    margin-right: 13px;
+  }
+
+  .sports ul li {
+    margin-bottom: 18px;
+  }
+  .sports .getbtn {
+    padding: 12px 19px;
+    margin-bottom: 20px;
+  }
+
+  .sports img {
+    width: 46%;
+  }
+  .sports h2::after {
+    bottom: -23px;
+    left: 50%;
+
+    transform: translateX(-50%);
+  }
+  /* ======================== Sports End =========================*/
+
+  /* ======================== Counter Start =========================*/
+  .counter {
+    padding-top: 0;
+    padding-bottom: 50px;
+  }
+
+  .counter .item {
+    padding: 40px 60px 52px 60px;
+    margin-bottom: 22px;
+  }
+  .counter .item h2 {
+    font-size: 40px;
+  }
+  .counter .item p {
+    font-size: 15px;
+  }
+
+  /* ======================== Counter End ===========================*/
+
+  /* ======================== Skill Start ===========================*/
+  .skill {
+    padding: 50px 0px;
+  }
+  .skill .item {
+    margin-top: 25px;
+  }
+  .skill h3 {
+    font-size: 20px;
+  }
+  .skill h2 {
+    font-size: 24px;
+  }
+  .skill .tittle {
+    font-size: 14px;
+    margin-top: 30px;
+    width: auto;
+  }
+  .skill .item h3 {
+    margin-bottom: 13px;
+  }
+  .skill .item p {
+    font-size: 15px;
+  }
+  .skill h5 {
+    font-size: 37px;
+    margin-top: 20px;
+    background: #0f4152;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club {
+    padding: 50px 0px;
+  }
+  .club-content h2 {
+    font-size: 15px;
+    width: auto;
+    padding-top: 21px;
+    padding-bottom: 15px;
+  }
+  .club-content p {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    width: auto;
+  }
+
+  .club-content .getbtn {
+    padding: 15px 31px;
+    font-size: 16px;
+    margin-top: 9px;
+    display: inline-block;
+  }
+
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .club-content {
+    padding-bottom: 48px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0;
+  }
+  .club-content {
+    padding-bottom: 10px;
+  }
+  .club .item {
+    top: 30%;
+  }
+  .club .item .img-overly .overly-text {
+    padding-left: 5px;
+  }
+  .club .item .img-overly .overly-text h2 {
+    font-size: 20px;
+  }
+  .club .item .img-overly .overly-text p {
+    font-size: 14px;
+  }
+  .club .item .img-overly .overly-text p::after {
+    width: 100px;
+    height: 1px;
+  }
+  .club .item .img-overly .overly-text h3 {
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  .club .item .img-overly .overly-text i {
+    display: none;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .choose .item {
+    margin-top: 42px;
+  }
+  .choose h3 {
+    font-size: 24px;
+  }
+  .choose h2 {
+    font-size: 36px;
+  }
+
+  .choose .item h4 {
+    font-size: 18px;
+    margin-top: 12px;
+  }
+  .choose .item p {
+    font-size: 14px;
+    width: auto;
+    padding-bottom: 22px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== news Start ===========================*/
+  .news .one .text {
+    padding: 0;
+  }
+  .news {
+    padding: 50px 0px;
+  }
+
+  .news h3 {
+    font-size: 14px;
+  }
+  .news h2 {
+    font-size: 28px;
+  }
+  .news .tittle {
+    font-size: 14px;
+    width: auto;
+    margin-top: 30px;
+  }
+  .news .one h5 {
+    font-size: 12px;
+    width: auto;
+    padding-top: 20px;
+    padding-bottom: 16px;
+  }
+
+  .news .one a {
+    font-size: 18px;
+    padding-bottom: 15px;
+  }
+  .news .one {
+    margin-bottom: 20px;
+  }
+
+  /* ======================== news End =============================*/
+
+  /* ======================== Skill Start ===========================*/
+  .sponsor {
+    padding: 30px 0px;
+  }
+  .sponsor img {
+    margin-bottom: 30px;
+  }
+  /* ======================== Skill End =============================*/
+
+  /* ======================== footer Start ===========================*/
+
+  .footer a {
+    padding: 14px 38px;
+  }
+  .footer a::after {
+    bottom: -134px;
+    left: 0;
+  }
+  .footer p {
+    width: auto;
+    margin-top: 20px;
+  }
+
+  .footer h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .footer h2::after {
+    bottom: -9px;
+  }
+  .footer .item-two ul {
+    font-size: 12px;
+  }
+
+  .footer .footer-end {
+    font-size: 14px;
+    width: auto;
+  }
+  .footer .img img {
+    width: 163%;
+  }
+
+  /* ======================== footer End =============================*/
+}

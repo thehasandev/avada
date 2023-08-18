@@ -1,0 +1,711 @@
+a {
+  text-decoration: none;
+}
+ul,
+li {
+  list-style: none;
+  padding: 0;
+}
+
+/*====================
+ Navbar Start
+====================== */
+nav {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+nav ul li .nav-link i {
+  padding-left: 5px;
+}
+nav ul li .nav-link {
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  transition: 0.5s;
+}
+nav ul li .nav-link:hover {
+  color: #ff9600;
+}
+
+.navbar-nav {
+  column-gap: 50px;
+}
+
+nav .getbtn i {
+  padding-left: 10px;
+}
+nav .getbtn {
+  padding: 19px 51px;
+  border-radius: 4px;
+  background: #ff9600;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  display: inline-block;
+  transition: 0.5s;
+}
+nav .getbtn:hover {
+  background: #fff;
+  color: #000000;
+}
+
+/*====================
+ Navbar End
+====================== */
+
+/*====================
+Banner part Start
+====================== */
+.banner {
+  position: relative;
+  background: url(../images/banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding-top: 291px;
+  padding-bottom: 271px;
+}
+.banner h1 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  color: #fff;
+  width: 830px;
+  margin: 0 auto;
+  margin-bottom: 55px;
+}
+.banner .getbtn {
+  padding: 19px 51px;
+  display: inline-block;
+  border-radius: 4px;
+  background: #ff9600;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 20px;
+  transition: 0.5s;
+}
+.banner .getbtn:hover {
+  background: #fff;
+  color: #000000;
+}
+.banner img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+/*====================
+ Banner part End
+====================== */
+
+/*====================
+ sports part Start
+====================== */
+.sports {
+  padding: 72px 0px;
+}
+.sports h3 {
+  font-family: "Yellowtail", cursive;
+  font-size: 30px;
+  color: #14b9f1;
+}
+
+.sports h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  color: #222222;
+  width: 595px;
+  position: relative;
+}
+.sports h2::after {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 2px;
+  bottom: -27px;
+  left: 50%;
+  background: #a0a0a0;
+  transform: translateX(-50%);
+}
+.sports p {
+  margin-top: 62px;
+  margin-bottom: 40px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+  width: 590px;
+}
+
+.sports ul {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+}
+.sports ul li i {
+  margin-right: 23px;
+}
+.sports ul li {
+  margin-bottom: 30px;
+}
+
+.sports .getbtn {
+  padding: 19px 51px;
+  display: inline-block;
+  border-radius: 4px;
+  background: #ff9600;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  border: 1px solid transparent;
+  transition: 0.5s;
+}
+.sports .getbtn:hover {
+  background: transparent;
+  border: 1px solid #ff9600;
+  color: #222222;
+}
+
+.sports img {
+  margin-right: 10px;
+}
+/*====================
+ sports part End
+====================== */
+
+/*====================
+ counter part Start
+====================== */
+.counter {
+  padding-bottom: 72px;
+}
+
+.counter .item {
+  background: #fff9f2 url(../images/counter-shape.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px 60px;
+  text-align: center;
+}
+.counter .item h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  color: #222222;
+}
+.counter .item p {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+}
+.counter .one {
+  background: #dcf0f3 url(../images/counter-shape.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.counter .two {
+  background: #f8f8fe url(../images/counter-shape.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.counter .three {
+  background: #fef8fa url(../images/counter-shape.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*====================
+ counter part End
+====================== */
+
+/*====================
+ skill part Start
+====================== */
+.skill {
+  padding: 102px 0px;
+  background: #0f4152;
+  position: relative;
+}
+.skill h3 {
+  font-family: "Yellowtail", cursive;
+  font-size: 30px;
+  color: #ff9600;
+}
+.skill h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  color: #fff;
+  position: relative;
+}
+.skill h2::after {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 2px;
+  bottom: -27px;
+  left: 0;
+  background: #fff;
+}
+
+.skill .tittle {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+  width: 638px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.skill .item {
+  margin-top: 90px;
+  text-align: center;
+  background: #0f4152;
+  -webkit-box-shadow: 0px 0px 65px -26px rgba(0, 0, 0, 0.55);
+  -moz-box-shadow: 0px 0px 65px -26px rgba(0, 0, 0, 0.55);
+  box-shadow: 0px 0px 65px -26px rgba(0, 0, 0, 0.55);
+}
+.skill .item img {
+  width: 100%;
+}
+
+.skill .item h3 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 27px;
+  margin-bottom: 24px;
+}
+.skill .item p {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  padding-bottom: 32px;
+}
+
+.skill h5 {
+  text-align: center;
+  font-family: "Arizonia", cursive;
+  font-size: 150px;
+  color: #fff;
+  margin-top: 80px;
+  background: #0f4152 url(../images/skill-shape.png);
+
+  background-size: cover;
+}
+
+/*====================
+ skill part End
+====================== */
+
+/*====================
+ Club part Start
+====================== */
+.club {
+  background: #ff9600;
+  padding-top: 110px;
+  margin-bottom: 72px;
+  position: relative;
+  overflow: hidden;
+}
+.club .shape {
+  position: absolute;
+  top: -50px;
+  left: 0;
+}
+
+.club-content {
+  padding-bottom: 100px;
+  text-align: center;
+}
+.club-content h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  color: #fff;
+  width: 1298px;
+  margin: 0 auto;
+  padding-top: 26px;
+  padding-bottom: 46px;
+}
+.club-content p {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #fff;
+  width: 679px;
+  margin: 0 auto;
+  padding-bottom: 35px;
+}
+
+.club-content .getbtn {
+  position: relative;
+  padding: 19px 40px;
+  border-radius: 4px;
+  background: #0c3543;
+  border: 1px solid transparent;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 20px;
+  transition: 0.5s;
+}
+.club-content .getbtn:hover {
+  background: transparent;
+  border: 1px solid #fff;
+}
+
+.club-content .getbtn i {
+  margin-right: 12px;
+}
+.club .item {
+  position: relative;
+  top: 22%;
+  transition: 0.5s;
+}
+.club .item:hover {
+  top: 0;
+}
+
+.club .item img {
+  width: 100%;
+  display: block;
+}
+.club .item .img-overly {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  background: linear-gradient(#0000006e, #22222274);
+  display: flex;
+  align-items: end;
+  justify-content: center;
+}
+
+.club .item .img-overly .overly-text h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+}
+.club .item .img-overly .overly-text h3 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 80px;
+}
+.club .item .img-overly .overly-text i {
+  margin-left: 30px;
+  color: #fff;
+  margin-top: 10px;
+}
+.club .item .img-overly .overly-text p {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  color: #fff;
+  position: relative;
+}
+.club .item .img-overly .overly-text p::after {
+  content: "";
+  position: absolute;
+  height: 2px;
+  width: 257px;
+  background: #fff;
+  bottom: -5px;
+  left: 0;
+}
+
+/*====================
+ Club part End
+====================== */
+
+/*====================
+ Choose part Start
+====================== */
+.choose {
+  text-align: center;
+}
+
+.choose h3 {
+  font-family: "Yellowtail", cursive;
+  font-size: 30px;
+  color: #14b9f1;
+  text-align: center;
+}
+.choose h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  color: #222222;
+  position: relative;
+  text-align: center;
+}
+.choose h2::after {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 2px;
+  bottom: -27px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #a0a0a0;
+}
+.choose p {
+  margin-top: 62px;
+  margin-bottom: 40px;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+  width: 590px;
+}
+.choose .item {
+  margin-top: 54px;
+  background: #fff;
+  -webkit-box-shadow: 0px 24px 90px -22px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 24px 90px -22px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 24px 90px -22px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+.choose .item img {
+  margin-top: 22px;
+}
+
+.choose .item h4 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #222222;
+  margin-top: 56px;
+  margin-bottom: 16px;
+}
+.choose .item p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+  width: 275px;
+  margin: 0 auto;
+  padding-bottom: 45px;
+}
+
+/*====================
+ Choose part End
+====================== */
+
+/*====================
+ News part Start
+====================== */
+.news {
+  text-align: center;
+  margin-top: 72px;
+  padding: 72px 0px;
+  background: #f7f7f7;
+}
+.news h3 {
+  font-family: "Yellowtail", cursive;
+  font-size: 30px;
+  color: #ff9600;
+}
+.news h2 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 54px;
+  font-weight: 700;
+  color: #222222;
+  position: relative;
+}
+.news h2::after {
+  content: "";
+  position: absolute;
+  width: 80px;
+  height: 2px;
+  bottom: -27px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #222222;
+}
+
+.news .tittle {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #222222;
+  width: 638px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.news img {
+  width: 100%;
+  display: block;
+}
+.news .one {
+  background: #fff;
+  -webkit-box-shadow: 0px 24px 90px -22px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 24px 90px -22px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 24px 90px -22px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.news .one .text {
+  text-align: center;
+  padding: 0px 57px;
+}
+.news .one h5 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #000000;
+  width: 250px;
+  margin: 0 auto;
+  padding-top: 27px;
+  padding-bottom: 20px;
+}
+.news .one h4 {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+}
+.news .one a {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #ff9600;
+  display: inline-block;
+  padding-bottom: 37px;
+}
+/*====================
+ News part End
+====================== */
+
+/*====================
+ sponsor part Start
+====================== */
+.sponsor {
+  margin: 72px 0px;
+}
+.sponsor .img img {
+  width: 100%;
+}
+
+/*====================
+ sponsor part End
+====================== */
+
+/*====================
+ Footer part Start
+====================== */
+.footer {
+  background: #0c3543;
+}
+
+.footer .item {
+  padding-left: 60px;
+}
+.footer .img {
+  position: relative;
+  transform: translateX(-50%);
+}
+.footer .img img {
+  width: 117%;
+}
+.footer .logo img {
+  margin-top: 40px;
+}
+.footer p {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+  width: 490px;
+}
+
+.footer a {
+  align-items: center;
+  padding: 19px 51px;
+  border-radius: 4px;
+  background: #ff9600;
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  transition: 0.5s;
+  display: inline-block;
+  border: 1px solid transparent;
+  position: relative;
+}
+.footer a::after {
+  content: "";
+  position: absolute;
+  width: 382%;
+  height: 1px;
+  background: #c4c4c4;
+  bottom: -67px;
+  left: 0;
+}
+.footer a:hover {
+  background: transparent;
+  border: 1px solid #fff;
+}
+.footer h2 {
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: relative;
+}
+.footer h2::after {
+  content: "";
+  position: absolute;
+  width: 25px;
+  height: 1px;
+  background: #fff;
+  bottom: -25px;
+  left: 0;
+}
+.footer .item-two {
+  margin-top: 100px;
+}
+.footer .item-two ul {
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+.footer .item-two ul li {
+  margin-bottom: 18px;
+}
+.footer .footer-end {
+  color: #fff;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  width: 498px;
+  padding-top: 18px;
+}
